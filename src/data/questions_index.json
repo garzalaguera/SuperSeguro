@@ -1,0 +1,40 @@
+{
+  "modules": [
+    {
+      "id": "aspectos-generales",
+      "name": "Aspectos Generales",
+      "description": "conceptos base, contrato, autoridades, sanciones, PLD/FT",
+      "questionCount": 300,
+      "icon": "Shield",
+      "color": "violet",
+      "file": "questions_all.json"
+    },
+    {
+      "id": "riesgos-personas",
+      "name": "Riesgos Individuales de Seguro de Personas",
+      "description": "vida, GM, accidentes, bases técnicas, beneficios",
+      "questionCount": 300,
+      "icon": "User",
+      "color": "blue",
+      "file": "questions_all.json"
+    },
+    {
+      "id": "riesgos-danos",
+      "name": "Riesgos Individuales de Seguro de Daños",
+      "description": "autos, hogar, RC, exclusiones, siniestros",
+      "questionCount": 300,
+      "icon": "Car",
+      "color": "amber",
+      "file": "questions_all.json"
+    },
+    {
+      "id": "sistema-financiero",
+      "name": "Sistema y Mercados Financieros",
+      "description": "sistema financiero, mercado de valores, tasas e instrumentos",
+      "questionCount": 200,
+      "icon": "TrendingUp",
+      "color": "emerald",
+      "file": "questions_all.json"
+    }
+  ]
+}

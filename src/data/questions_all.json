@@ -1,0 +1,67 @@
+[
+  {
+    "module": "Aspectos Generales",
+    "subtopic": "Conceptos base",
+    "difficulty": "Básico",
+    "question": "¿Qué es un seguro?",
+    "options": [
+      "Un contrato de indemnización por pérdidas",
+      "Un ahorro bancario",
+      "Una inversión en bolsa",
+      "Un préstamo personal"
+    ],
+    "correct": 0
+  },
+  {
+    "module": "Aspectos Generales",
+    "subtopic": "Contrato",
+    "difficulty": "Intermedio",
+    "question": "¿Cuáles son los elementos esenciales del contrato de seguro?",
+    "options": [
+      "Prima, riesgo, interés asegurable",
+      "Solo la prima",
+      "Solo el riesgo",
+      "Nombre y dirección"
+    ],
+    "correct": 0
+  },
+  {
+    "module": "Riesgos Individuales de Seguro de Personas",
+    "subtopic": "Vida",
+    "difficulty": "Básico",
+    "question": "¿Qué cubre un seguro de vida?",
+    "options": [
+      "El fallecimiento del asegurado",
+      "Daños al automóvil",
+      "Gastos médicos menores",
+      "Pérdida de equipaje"
+    ],
+    "correct": 0
+  },
+  {
+    "module": "Riesgos Individuales de Seguro de Daños",
+    "subtopic": "Autos",
+    "difficulty": "Básico",
+    "question": "¿Qué es la cobertura de responsabilidad civil en seguros de auto?",
+    "options": [
+      "Cubre daños a terceros",
+      "Cubre solo tu vehículo",
+      "Es un seguro de vida",
+      "Cubre gastos médicos"
+    ],
+    "correct": 0
+  },
+  {
+    "module": "Sistema y Mercados Financieros",
+    "subtopic": "Sistema financiero",
+    "difficulty": "Intermedio",
+    "question": "¿Cuál es la función principal de la CNSF?",
+    "options": [
+      "Supervisar el sector asegurador y afianzador",
+      "Emitir billetes",
+      "Otorgar créditos",
+      "Vender seguros"
+    ],
+    "correct": 0
+  }
+]
